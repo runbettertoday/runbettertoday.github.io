@@ -1,0 +1,15 @@
+Joint drawings in img/anatomy/ (hips, knees, ankles)
+
+Source files on Wikimedia Commons:
+  https://commons.wikimedia.org/wiki/File:Gray342.png
+  https://commons.wikimedia.org/wiki/File:Gray347.png
+  https://commons.wikimedia.org/wiki/File:Gray356.png
+
+Quoted from the Commons API extmetadata for each file (retrieved 2026-10-23):
+  LicenseShortName: "Public domain"
+  UsageTerms: "Public domain"
+  Copyrighted: "False"
+  Artist: Henry Vandyke Carter
+  Credit: Henry Gray (1918) Anatomy of the Human Body, Bartleby.com
+
+Modified for this site: labels removed, cropped, recoloured, resized.

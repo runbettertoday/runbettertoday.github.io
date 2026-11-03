@@ -1,0 +1,148 @@
+{
+ "date": "2026-11-02",
+ "duration_s": 816.5,
+ "description": "Today\u2019s Workout follow-along for 2026-11-02. Narration: AI voice (Sky, Kokoro-82M, generated locally). Educational information only. Not medical advice.",
+ "voice": {
+  "ai_voice": true,
+  "label": "AI voice",
+  "model": "Kokoro-82M v1.0 (hexgrad, Apache-2.0)",
+  "runtime": "kokoro-onnx (MIT)",
+  "voice": "af_sky",
+  "speed": 0.85,
+  "pitch_widen_K": 1.25
+ },
+ "title_card_s": 9.5,
+ "char_height_frac": {
+  "walk": 0.83,
+  "bodyweight-squat": 0.83,
+  "idle-stand": 0.83,
+  "idle-floor": 0.35,
+  "glute-bridge": 0.49,
+  "straight-leg-raise": 0.43
+ },
+ "character": {
+  "version": "v6",
+  "sex": "female",
+  "seed": "sha256(rbt-daily-v6|date)"
+ },
+ "reps_check": [
+  {
+   "id": "bodyweight-squat",
+   "set": 1,
+   "side": 1,
+   "reps": 10,
+   "rep_s": 4.0,
+   "clip_frames": 120,
+   "seg_s": 40.0,
+   "seg_frames": 1200,
+   "ok": true
+  },
+  {
+   "id": "bodyweight-squat",
+   "set": 2,
+   "side": 1,
+   "reps": 10,
+   "rep_s": 4.0,
+   "clip_frames": 120,
+   "seg_s": 40.0,
+   "seg_frames": 1200,
+   "ok": true
+  },
+  {
+   "id": "glute-bridge",
+   "set": 1,
+   "side": 1,
+   "reps": 10,
+   "rep_s": 6.0,
+   "clip_frames": 180,
+   "seg_s": 60.0,
+   "seg_frames": 1800,
+   "ok": true
+  },
+  {
+   "id": "glute-bridge",
+   "set": 2,
+   "side": 1,
+   "reps": 10,
+   "rep_s": 6.0,
+   "clip_frames": 180,
+   "seg_s": 60.0,
+   "seg_frames": 1800,
+   "ok": true
+  },
+  {
+   "id": "straight-leg-raise",
+   "set": 1,
+   "side": 1,
+   "reps": 10,
+   "rep_s": 4.5,
+   "clip_frames": 135,
+   "seg_s": 45.0,
+   "seg_frames": 1350,
+   "ok": true
+  },
+  {
+   "id": "straight-leg-raise",
+   "set": 1,
+   "side": 2,
+   "reps": 10,
+   "rep_s": 4.5,
+   "clip_frames": 135,
+   "seg_s": 45.0,
+   "seg_frames": 1350,
+   "ok": true
+  },
+  {
+   "id": "straight-leg-raise",
+   "set": 2,
+   "side": 1,
+   "reps": 10,
+   "rep_s": 4.5,
+   "clip_frames": 135,
+   "seg_s": 45.0,
+   "seg_frames": 1350,
+   "ok": true
+  },
+  {
+   "id": "straight-leg-raise",
+   "set": 2,
+   "side": 2,
+   "reps": 10,
+   "rep_s": 4.5,
+   "clip_frames": 135,
+   "seg_s": 45.0,
+   "seg_frames": 1350,
+   "ok": true
+  }
+ ],
+ "plan": [
+  {
+   "id": "bodyweight-squat",
+   "clip": "bodyweight-squat",
+   "dose": "2 sets of 10",
+   "shown_on_screen": "Today: 2 sets of 10",
+   "sets_today": 2,
+   "reps": 10,
+   "sides": 1
+  },
+  {
+   "id": "glute-bridge",
+   "clip": "glute-bridge",
+   "dose": "2\u20133 sets of 10",
+   "shown_on_screen": "Today: 2 sets of 10",
+   "sets_today": 2,
+   "reps": 10,
+   "sides": 1
+  },
+  {
+   "id": "straight-leg-raise",
+   "clip": "straight-leg-raise",
+   "dose": "2 sets of 10 each side",
+   "shown_on_screen": "Today: 2 sets of 10 each side",
+   "sets_today": 2,
+   "reps": 10,
+   "sides": 2
+  }
+ ],
+ "cues": 30
+}

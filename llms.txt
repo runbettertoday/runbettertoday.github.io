@@ -1,0 +1,32 @@
+# Run Better Today
+
+> Free educational exercises and a daily routine builder for recreational runners with mild hip, knee and ankle discomfort. Every exercise links to its published source and carries an evidence label.
+
+## Key pages
+
+- [Run Better Today: exercises for runners' hip, knee and ankle aches](https://runbettertoday.github.io/): Free educational exercises and a daily routine builder that may help runners reduce hip, knee and ankle discomfort, with warning-sign checks and sources.
+- [Hip exercises for runners | Run Better Today](https://runbettertoday.github.io/hips.html): Educational hip and glute strength exercises for runners, with step-by-step diagrams, evidence labels and sources, plus warning signs that need a check-up.
+- [Knee exercises for runners | Run Better Today](https://runbettertoday.github.io/knees.html): Educational hip and knee strengthening exercises that may help runners with knee discomfort, with step-by-step instructions, evidence labels, sources and warning signs.
+- [Ankle and Achilles exercises for runners | Run Better Today](https://runbettertoday.github.io/ankles.html): Educational calf strength and balance exercises that may help runners with ankle or Achilles discomfort, with diagrams, evidence labels and sources.
+- [Daily routine builder for runners | Run Better Today](https://runbettertoday.github.io/builder.html): Answer a few questions to get a short daily warm-up, exercise and recovery routine. Warning signs are checked first. Educational only, not medical advice.
+- [When to get help for running pain | Run Better Today](https://runbettertoday.github.io/safety.html): Warning signs that mean a runner should stop and get checked, and when ongoing hip, knee or ankle pain is worth a visit to a healthcare professional.
+- [Running smarter: training, sleep, shoes and more | Run Better Today](https://runbettertoday.github.io/running-smarter.html): General running habits that may help reduce the chance of aches: building up slowly, strength work, sleep, nutrition and footwear, each with its sources.
+- [Sources and evidence labels | Run Better Today](https://runbettertoday.github.io/sources.html): Every guideline, review and study this site cites, with links, publication details and the evidence label (Strong, Practice or Low) used for each one.
+- [Tell us what's bothering you | Run Better Today](https://runbettertoday.github.io/feedback.html): Share what running discomfort you'd like covered. Your note stays in your browser unless you choose to export it. Not a way to get medical advice.
+- [About this site | Run Better Today](https://runbettertoday.github.io/about.html): Who Run Better Today is for, how its content is sourced and labelled, the full medical disclaimer, and how to contact us. The creator is not a clinician.
+- [Terms of Use | Run Better Today](https://runbettertoday.github.io/terms.html): Terms of Use for Run Better Today: educational purpose only, no professional relationship, assumption of risk, limitation of liability and governing law.
+- [Today's Workout videos for runners | Run Better Today](https://runbettertoday.github.io/workouts.html): Free follow-along workout videos using this site's exercises, newest first, with captions, the exercise list and a reminder to stop if pain is more than mild.
+- [Privacy Policy | Run Better Today](https://runbettertoday.github.io/privacy.html): Privacy Policy for Run Better Today: no accounts and no analytics. Tracker and feedback entries stay in your browser's local storage and you can delete them.
+
+## Disclaimer
+
+Educational information only. Not medical advice or a substitute for evaluation by a qualified healthcare professional. The creator is not a doctor, physical therapist or licensed healthcare professional, and the content has not been clinically reviewed. In an emergency, call 911 (US) or your local emergency number.
+
+## Evidence labels
+
+- Strong: clinical guideline, consensus statement, or meta-analysis of trials.
+- Practice: common clinical practice, expert opinion in guidelines, or a single trial.
+- Low: low-certainty or mixed evidence.
+- Full source list: https://runbettertoday.github.io/sources.html
+
+Exercises may help reduce discomfort for some people; results vary and nothing here is a promise of any outcome.

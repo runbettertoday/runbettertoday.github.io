@@ -1,0 +1,31 @@
+{
+ "date": "2026-10-24",
+ "duration_s": 823.0,
+ "plan": [
+  {
+   "id": "bodyweight-squat",
+   "clip": "bodyweight-squat",
+   "dose": "2 sets of 10",
+   "sets_today": 2,
+   "reps": 10,
+   "sides": 1
+  },
+  {
+   "id": "glute-bridge",
+   "clip": "glute-bridge",
+   "dose": "2\u20133 sets of 10",
+   "sets_today": 2,
+   "reps": 10,
+   "sides": 1
+  },
+  {
+   "id": "straight-leg-raise",
+   "clip": "straight-leg-raise",
+   "dose": "2 sets of 10 each side",
+   "sets_today": 2,
+   "reps": 10,
+   "sides": 2
+  }
+ ],
+ "cues": 30
+}
