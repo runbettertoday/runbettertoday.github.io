@@ -1,6 +1,4 @@
 window.RBT = window.RBT || {};
-/* Per-page SEO metadata. Titles must be unique; descriptions plain and accurate (~150 chars).
-   Absolute URLs use https://runbettertoday.github.io (see site.config.json and set_site_url.py). After editing, run: python3 tools/build_seo.py */
 RBT.seo = {
  published:"2026-10-24", modified:"2026-10-24",
  ogImage:{src:"img/og-1200x630.jpg",width:1200,height:630,alt:"Run Better Today logo and the line Keep running. Move smarter., beside an illustration of a running path through green hills"},
